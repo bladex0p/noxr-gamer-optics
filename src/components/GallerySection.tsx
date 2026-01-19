@@ -14,7 +14,7 @@ const galleryImages = [
   { src: gamerMale, alt: "Male gamer with RGB setup", size: "small" },
   { src: glassesRgb, alt: "NOXR glasses with RGB reflection", size: "small" },
   { src: gamerKid, alt: "Young gamer focused", size: "small" },
-  { src: gamerHeadset, alt: "Gamer with headset", size: "large" },
+  { src: gamerFemale, alt: "Gamer with headset", size: "large" },
   { src: glassesFront, alt: "NOXR glasses front view", size: "small" },
 ];
 

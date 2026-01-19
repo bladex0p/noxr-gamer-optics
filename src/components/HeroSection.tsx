@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { ArrowRight, Shield, Eye, Zap } from "lucide-react";
 import { Button } from "./ui/button";
-import heroImage from "@/assets/gamer-closeup.png";
+import heroImage from "@/assets/gamer-headset.png";
 
 const HeroSection = () => {
   return (

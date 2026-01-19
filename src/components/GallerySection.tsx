@@ -5,7 +5,7 @@ import { useRef } from "react";
 import gamerMale from "@/assets/gamer-male-1.png";
 import gamerFemale from "@/assets/gamer-female.png";
 import gamerKid from "@/assets/gamer-kid.png";
-import gamerHeadset from "@/assets/gamer-headset.png";
+import glassesDesk from "@/assets/glasses-desk.png";
 import glassesRgb from "@/assets/glasses-rgb.png";
 import glassesFront from "@/assets/glasses-front.png";
 
@@ -14,7 +14,7 @@ const galleryImages = [
   { src: gamerMale, alt: "Male gamer with RGB setup", size: "small" },
   { src: glassesRgb, alt: "NOXR glasses with RGB reflection", size: "small" },
   { src: gamerKid, alt: "Young gamer focused", size: "small" },
-  { src: gamerFemale, alt: "Gamer with headset", size: "large" },
+  { src: glassesDesk, alt: "NOXR glasses on desk setup", size: "large" },
   { src: glassesFront, alt: "NOXR glasses front view", size: "small" },
 ];
 
